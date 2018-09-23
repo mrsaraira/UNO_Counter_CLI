@@ -4,4 +4,4 @@ UNO game score counter is a console app written in C/C++ using _ncurses_ framewo
 The extra file "firework" is a joke! but is **necessary** to avoid crashes. 
 
 ### Screenshot
-![Screenshot of the application](https://photos.app.goo.gl/c7aV6sHdDUmA7HVu7)
+![Screenshot of the application](https://lh3.googleusercontent.com/T6xUvLyz9VPvyu4m73rflqaAM-kOttiEe9AoI_4qjagfwGQib8OJGeNj7TElTQ73u3e4IH25drbDZeiVD-3_6RNzivFahph4VWuwoZA7ohkUyQAXTG1wGCIQLAQVQbFSaCVPJw2zTLWgCPk7Hp9M_4ONS_XBaiWg5BN-REqtvm7Y2ORAgV96uAeFYsUUOFYr5UhHdZbf0JT-ZmVV1sPxZpdlGnFBiHGuiXq_0u0JdQsUGuwtRfhZgIU8Gx5uFQgRZgE266uyEFX8N9DdFKk7uTdxw2L5xz9QrCb6szON4fqYwb23LbWYN-9xLT0tMLeTHrg9ILUuP8MeZ89VjVmeoJ6fLRKpS6sJIQH3s2bd3lS0qOD-xpryAHOBIEVXx4zFd0dfklOuKY-4gV6e5WSSZgLmZUYIJwJyplys8AQGVvODwCMq8XBdvjwIPv3KmoV3hmQHqjVcPI8TUA4b3akh2jqz-PEXX9WHIE4EY_7liTU8EfYckKNXvwQvXnpyCMRWTyieVmmoMScUJhb_Zsxi4xFwdjbNoKOsEpg9wsL4gWsn9u8nOIv7Lo-tPcuLUpBUGuB6lR9Q5aH8xkCGvFVbfy2cwwQ2uu80o3I2SUEqIcCoGv8H1RZlrVHBgqVH-CXTBzUPn0Y2BWdJg_zhF4X-Q0XCjcW3xvUv3t-xWYMYNqoSk_cVaKmi6Hw=w1308-h478-no)
